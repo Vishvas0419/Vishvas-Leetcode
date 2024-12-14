@@ -15,9 +15,9 @@ class Solution {
                 flowerbed[i] = 1;
                 n--;
             }
-            if(n==0) return true;
+            if(n==0) return true; //return true if all flower are planted
         }
-        return false;
+        return false;  //return false if one or more flowers are yet to be planted 
         
     }
 }
