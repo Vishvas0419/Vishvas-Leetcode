@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0605-can-place-flowers) |
+| [0792-binary-search](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0792-binary-search) |
 ## Greedy
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
