@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
