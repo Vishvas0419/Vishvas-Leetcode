@@ -6,8 +6,8 @@ class Solution {
         {
             if(nums[i]==1){
                 count++;
-                // if(count>max) max = count;
-                max = Math.max(max,count);
+                if(count>max) max = count;
+                // max = Math.max(max,count);
             }
             else{
                 count = 0;
