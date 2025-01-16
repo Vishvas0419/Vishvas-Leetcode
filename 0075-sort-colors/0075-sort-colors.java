@@ -7,19 +7,21 @@ class Solution {
         {
             if(nums[mid]== 0)
             {
-                int temp = nums[low];
-                nums[low] = nums[mid];
-                nums[mid] = temp;
+                swap(nums,low,mid);
                 low++;
                 mid++;
             }
             else if(nums[mid]==1) mid++;
             else{
-                int temp = nums[mid];
-                nums[mid] = nums[high];
-                nums[high] = temp;
+                swap(nums,high,mid);
                 high--;
             }
         }     
+    }
+    public void swap(int[] nums,int i,int j)
+    {
+        int temp = nums[i];
+        nums[i]=nums[j];
+        nums[j]=temp;
     }
 }
