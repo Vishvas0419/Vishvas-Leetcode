@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1013-fibonacci-number) |
 | [2571-find-the-pivot-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Prefix Sum
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
