@@ -1,44 +1,18 @@
 class Solution {
     public int maximumCount(int[] nums) {
-        int neg = countNegatives(nums);
-        int pos = countPositives(nums);
-        return Math.max(neg,pos);
-    }
-    public static int countNegatives(int[]nums)
-    {
-        int n = nums.length;
-        int low = 0;
-        int high = n-1;
-        while(low<=high)
+        int p=0,n=0;
+        for(int i=0;i<nums.length;i++)
         {
-            int mid = (low+high)/2;
-            if(nums[mid]<0)
+            if(nums[i]>0)
             {
-                low = mid +1;
+                p++;
             }
-            else{
-                high=mid-1;
+            else if(nums[i]<0)
+            {
+                n++;
             }
         }
-        return low;
-    }
-    public static int countPositives(int[]nums)
-    {
-        int n = nums.length;
-        int low = 0;
-        int high = n-1;
-        while(low<=high)
-        {
-            int mid = (low+high)/2;
-            if(nums[mid]>0)
-            {
-                high = mid-1;
-            }
-            else
-            {
-                low = mid+1;
-            }
-        }
-        return n - low;//this will give no of positives between our search space
+        return Math.max(p,n);
+        
     }
 }
