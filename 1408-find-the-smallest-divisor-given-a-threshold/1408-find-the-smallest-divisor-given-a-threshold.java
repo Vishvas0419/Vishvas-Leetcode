@@ -1,8 +1,17 @@
 class Solution {
+    public int sumOfDivisions(int[] arr, int divisor) {
+        int n = arr.length;
+        int sum = 0;
+        for (int i = 0; i < n; i++) {
+            sum += (int) Math.ceil((double) arr[i] / divisor);
+        }
+        return sum;
+    }
+
     public int smallestDivisor(int[] nums, int threshold) {
         int n = nums.length;
-        // if (n < threshold) return -1;
-        // Find max element of array for 'high'
+
+        // Find max element for 'high' ptr
         int max = Integer.MIN_VALUE;
         for (int i = 0; i < n; i++) {
             max = Math.max(max, nums[i]);
@@ -21,13 +30,5 @@ class Solution {
             }
         }
         return low;
-    }
-    public int sumOfDivisions(int[] arr, int divisor) {
-        int n = arr.length;
-        int sum = 0;
-        for (int i = 0; i < n; i++) {
-            sum += (int) Math.ceil((double) arr[i] / divisor);
-        }
-        return sum;
     }
 }
