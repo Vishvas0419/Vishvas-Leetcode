@@ -11,16 +11,13 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        ListNode temp = head;
-        HashMap<ListNode,Integer>mpp = new HashMap<>();
-        while(temp!=null)
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast != null && fast.next != null)
         {
-            if(mpp.containsKey(temp)) //if node is already visited loop ends
-            {
-                return true;
-            }
-            mpp.put(temp,1); //else add current node to HashMap
-            temp = temp.next; //and move to next node to check
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow==fast) return true;
         }
         return false;
     }
