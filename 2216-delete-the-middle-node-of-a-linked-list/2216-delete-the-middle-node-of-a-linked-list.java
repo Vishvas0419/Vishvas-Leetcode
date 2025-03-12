@@ -13,7 +13,7 @@ class Solution {
         if (head == null || head.next == null) return null;     
         ListNode slow = head;
         ListNode fast = head;
-        fast = head.next.next;
+        fast = fast.next.next; //let fast traverse LL only 1 step
         while(fast != null && fast.next != null)
         {
             slow = slow.next;
