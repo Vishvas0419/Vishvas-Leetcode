@@ -214,9 +214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
