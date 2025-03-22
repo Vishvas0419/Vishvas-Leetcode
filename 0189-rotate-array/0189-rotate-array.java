@@ -6,6 +6,7 @@ class Solution {
         if(k>n) return;
         // 1. reverse first n-k elements 
         reverse(nums,0,n-k-1);
+        //reverse last k elements
         reverse(nums,n-k,n-1);
         reverse(nums,0,n-1);
     }
