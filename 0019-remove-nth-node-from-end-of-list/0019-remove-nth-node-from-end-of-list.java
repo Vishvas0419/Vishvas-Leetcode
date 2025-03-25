@@ -13,17 +13,17 @@ class Solution {
         ListNode fast = head; ListNode slow = head;
         for(int i=0;i<n;i++)
         {
-            fast = fast.next;
+            fast = fast.next; //traverse fast till n
         }
         // edge case when n = length of LL(1st node to be deleted)
         if(fast == null) return head.next;
         while(fast.next != null)
         {
-            slow=slow.next;
+            slow=slow.next; //in the end slow will stand at prev of the node which is to be deleted
             fast=fast.next;
         }
-        ListNode delNode = slow.next;
-        slow.next = slow.next.next;
+        // ListNode delNode = slow.next;
+        slow.next = slow.next.next; //just skip it
         return head;
     }
 }
