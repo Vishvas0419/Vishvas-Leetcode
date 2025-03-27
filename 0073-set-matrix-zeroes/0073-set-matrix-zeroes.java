@@ -1,17 +1,19 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int n = matrix.length;
-        int m = matrix[0].length;   
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
+        int m = matrix.length; //rows
+        int n = matrix[0].length; //cols
+        //marks -10 for entire rows and cols elems which is not 0  
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
                 if (matrix[i][j] == 0) {
-                    markRow(matrix, i, m);
-                    markCol(matrix, j, n);
+                    markRow(matrix, i, n); 
+                    markCol(matrix, j, m);
                 }
             }
         }
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
+        //mark 0 for all the elems marked as -10
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
                 if (matrix[i][j] == -10) {
                     matrix[i][j] = 0;
                 }
