@@ -5,8 +5,7 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
             if (ch == ' ') {
-                if(word.length()>0)
-                st.push(word.toString());
+                if(word.length()>0) st.push(word.toString()); //check only if word exist
                 word.setLength(0); // Clear string word for next word       
                 }
                 else word.append(ch); 
