@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2391-strong-password-checker-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2391-strong-password-checker-ii) |
 ## Hash Table
 |  |
 | ------- |
