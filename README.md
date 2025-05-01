@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2486-most-frequent-even-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2486-most-frequent-even-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
