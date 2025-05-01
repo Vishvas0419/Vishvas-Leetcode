@@ -1,20 +1,17 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashMap<Character,Integer>mpp = new HashMap<>();  
-        // count frequency of each character
+        HashMap<Character,Integer> map = new HashMap<>();
         for(int i=0;i<s.length();i++)
         {
             char ch = s.charAt(i);
-            mpp.put(ch,mpp.getOrDefault(ch,0)+1);
-        }
-        //check key(char) whose value(count) is 1
-        for(int i=0;i<s.length();i++)
+            map.put(ch,map.getOrDefault(ch,0)+1);
+        } 
+        for(int i = 0;i<s.length();i++)
         {
-            if(mpp.get(s.charAt(i)) == 1) 
-            {
-                return i;
-            }
+            char ch = s.charAt(i);
+            if(map.get(ch) == 1) return s.indexOf(ch);
         }
         return -1;
+        
     }
 }
