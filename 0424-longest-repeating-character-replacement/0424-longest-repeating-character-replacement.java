@@ -1,7 +1,6 @@
 class Solution {
     public int characterReplacement(String s, int k) {
         int left = 0;
-        Map<Character,Integer> map = new HashMap<>();
         int []freq = new int[26];
         int max = Integer.MIN_VALUE;
         int maxOcc = Integer.MIN_VALUE;
