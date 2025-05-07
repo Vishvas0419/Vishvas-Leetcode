@@ -13,17 +13,19 @@
  *     }
  * }
  */
+ // preorder = N L R we will add first right node and then left node beacuse stack is LIFO so if we push R and then L then result would be L and then R so N L R..
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer>arr = new ArrayList<>();
-        preOrder(root,arr);
-        return arr;
-    }
-    public void preOrder(TreeNode root,List<Integer>arr)
-    {
-        if(root==null) return;
-        arr.add(root.val);
-        preOrder(root.left,arr);
-        preOrder(root.right,arr);
+        List<Integer> result = new ArrayList<>();
+        if(root==null) return result;
+        Stack<TreeNode> st = new Stack<>();
+        st.push(root);
+        while(!st.isEmpty()){
+            TreeNode node = st.pop();
+            result.add(node.val); // N
+            if(node.right!=null) st.push(node.right); //R
+            if(node.left!=null) st.push(node.left); //L
+        }
+        return result;
     }
 }
