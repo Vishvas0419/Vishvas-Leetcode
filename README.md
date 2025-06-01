@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1046-max-consecutive-ones-iii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1755-defuse-the-bomb) |
 ## Backtracking
