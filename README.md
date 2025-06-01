@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0575-distribute-candies](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0735-asteroid-collision) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0575-distribute-candies) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
