@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
