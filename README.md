@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0575-distribute-candies) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
