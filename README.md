@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0169-majority-element) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0268-missing-number) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0232-implement-queue-using-stacks) |
