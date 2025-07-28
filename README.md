@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2486-most-frequent-even-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0389-find-the-difference) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Counting
 |  |
 | ------- |
@@ -428,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
