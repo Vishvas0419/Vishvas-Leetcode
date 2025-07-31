@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0075-sort-colors) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0205-isomorphic-strings) |
@@ -437,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
