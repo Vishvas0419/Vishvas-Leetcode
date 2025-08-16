@@ -1,6 +1,6 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        //HashMap + Prefix Sum
+        //HashMap + Prefix Sum (complement method)
         Map<Integer,Integer> map = new HashMap<>();
         //key = sum , value = freq of the sums
         map.put(0,1);
