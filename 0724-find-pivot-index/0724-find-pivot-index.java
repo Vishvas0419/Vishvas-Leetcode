@@ -9,9 +9,9 @@ class Solution {
 
         for(int i=0;i<nums.length;i++)
         {
-            int leftSum = prefixSum[i] - nums[i];
+            int leftSum = prefixSum[i] - nums[i];    
             int rightSum = prefixSum[nums.length-1] - prefixSum[i];
-            if(leftSum == rightSum) return i; //pivot index 
+            if(leftSum == rightSum) return i;           
         }
         return -1;
     }
