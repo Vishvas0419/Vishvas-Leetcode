@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2102-find-the-middle-index-in-array) |
