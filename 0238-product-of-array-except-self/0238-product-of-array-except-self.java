@@ -1,21 +1,23 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-        // left product
-        int n = nums.length;
-        int result[] = new int[n];
-        result[0] = 1;
-        for(int i=1;i<n;i++)
+        int n = nums.length; 
+        int [] result = new int[n];
+        int zeroes = 0; int product = 1;
+        for(int num : nums)
         {
-            result[i] = result[i-1] * nums[i-1];
-        }      
-        // Step 2: Calculate suffix products (right of current index)
-        // We'll multiply right products into result array directly  
-        int rightProduct = 1;
-        for(int i = n-1;i>=0;i--)
-        {
-            result[i] *= rightProduct;
-            rightProduct *= nums[i];
+            if(num==0) zeroes++;
+            else product *= num;
         }
-        return result;        
+        for(int i=0;i<n;i++)
+        {
+            if(zeroes>1) result[i] = 0;
+            else if(zeroes==1)
+            {
+                if(nums[i]==0) result[i] = product;
+                else result[i] = 0; 
+            }
+            else result[i] = product/nums[i];
+        }
+        return result;
     }
 }
