@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0575-distribute-candies) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Counting
