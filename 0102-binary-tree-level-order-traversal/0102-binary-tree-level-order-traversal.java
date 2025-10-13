@@ -21,9 +21,9 @@ class Solution {
         q.offer(root);
         while(!q.isEmpty())
         {
-            int levelCount = q.size();
+            int n = q.size();
             List<Integer>level = new ArrayList<>();
-            for(int i=0;i<levelCount;i++)
+            for(int i=0;i<n;i++)
             {
                 TreeNode curr = q.poll();
                 level.add(curr.val);
