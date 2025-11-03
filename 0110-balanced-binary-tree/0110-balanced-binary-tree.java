@@ -14,20 +14,16 @@
  * }
  */
 class Solution {
-    public int height(TreeNode node)
-    {
-        if(node==null || node.left==null && node.right==null) return 0;
-        int l_height = height(node.left); 
-        int r_height = height(node.right);
-        return 1+Math.max(l_height,r_height);
-    }
     public boolean isBalanced(TreeNode root) {
-       if(root==null || root.left==null && root.right==null) return true;
-        int l = height(root.left);
-        if(root.left!=null) l++;
-        int r = height(root.right);
-        if(root.right!=null) r++;
-        if(Math.abs(l-r)>1) return false;
-        return isBalanced(root.left) && isBalanced(root.right);
+        return findHeight(root)!=-1;
+    }
+    public int findHeight(TreeNode root)
+    {
+        if(root==null) return 0;
+        int leftHeight = findHeight(root.left);
+        int rightHeight = findHeight(root.right);
+        if(leftHeight==-1 || rightHeight==-1) return -1;//we dont have to check the other tree if any one of the tree's height is -1
+        if(Math.abs(leftHeight-rightHeight)>1) return -1;//condition for balanced tree
+        return 1+Math.max(leftHeight,rightHeight);
     }
 }
