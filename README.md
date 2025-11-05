@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0575-distribute-candies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -484,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0112-path-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Sliding Window
 |  |
