@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0575-distribute-candies) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Sliding Window
