@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0229-majority-element-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0242-valid-anagram) |
@@ -563,4 +566,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
