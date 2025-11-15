@@ -660,4 +660,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0948-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
