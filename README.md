@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -665,4 +667,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0175-combine-two-tables) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
