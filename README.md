@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0605-can-place-flowers) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0994-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
