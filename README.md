@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0948-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1127-last-stone-weight) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1791-richest-customer-wealth](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Sliding Window
@@ -694,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
