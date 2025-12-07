@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0242-valid-anagram) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0200-number-of-islands) |
