@@ -29,7 +29,6 @@ class Solution {
         color[node] = col;
         for(int nbr : adj.get(node))
         {
-            //if not colored then call dfs
             if(color[nbr]==-1)
             {
                 if(!dfs(nbr,1-col,color,adj)) return false;
