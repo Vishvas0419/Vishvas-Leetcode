@@ -20,7 +20,7 @@ class Solution {
             Pair p = q.poll();
             String word = p.word;
             int steps = p.count;
-            if(word.equals(endWord)==true) return steps;
+            if(word.equals(endWord)) return steps;
             char [] charArr = word.toCharArray();
             for(int i=0;i<charArr.length;i++)
             {
