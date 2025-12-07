@@ -4,8 +4,6 @@ class Solution {
         int n = board.length;
         int m = board[0].length;
         boolean [][] vis = new boolean[n][m];
-        // int[]delrow = {-1,0,+1,0};
-        // int[]delcol = {0,1,0,-1};
         for(int i=0;i<m;i++)
         {
             //traverse 1st row
@@ -54,11 +52,6 @@ class Solution {
         {
             int nr = row+d[0];
             int nc = col+d[1];
-        //for up,down,right,left
-        // for(int i=0;i<4;i++)
-        // {
-            // int nr = row + delrow[i];
-            // int nc = col + delcol[i];
             if(nr>=0 && nc>=0 && nr<n && nc<m && board[nr][nc]=='O' && !vis[nr][nc])
             {
                 dfs(nr,nc,vis,board);
