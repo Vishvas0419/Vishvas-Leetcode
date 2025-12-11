@@ -26,6 +26,7 @@ class Solution {
                 if(indegree[nbr]==0) q.add(nbr);
             }
         }
+        // if we didn't place all courses, there is a cycle -> return empty array
         if(i != V) return new int[]{}; 
         return topo;
     }
