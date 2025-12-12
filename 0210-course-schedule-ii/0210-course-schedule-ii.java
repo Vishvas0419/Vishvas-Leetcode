@@ -27,7 +27,7 @@ class Solution {
             }
         }
         // if we didn't place all courses, there is a cycle -> return empty array
-        if(i != V) return new int[]{}; 
-        return topo;
+        if(i == V) return topo; 
+        return new int[]{};
     }
 }
