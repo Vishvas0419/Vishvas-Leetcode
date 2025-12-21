@@ -12,9 +12,10 @@ class Solution {
         {
             for(int v : graph[u])
             {
-                revList.get(v).add(u);
+                //Kahn algo on reverse graph
+                revList.get(v).add(u); 
                 indegree[u]++;
-            }
+            } 
         }
         Queue<Integer> q = new LinkedList<>();
         for(int i=0;i<indegree.length;i++)
