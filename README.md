@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1603-running-sum-of-1d-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1631-path-with-minimum-effort](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -681,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -715,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
