@@ -13,18 +13,18 @@ class Solution {
             int u = e[0];
             int v = e[1];
             int wt = e[2];
-            dist[u][v] = wt; dist[v][u] = wt; //fill for given paths
+            dist[u][v] = wt; dist[v][u] = wt; //fill given paths weights
         }
         for(int i=0;i<n;i++)
         {
-            dist[i][i] = 0;//dist btw same src and dest is 0 
+            dist[i][i] = 0;//dist btw same src & dest = 0
         }
         for(int k=0;k<n;k++)
         {
             for(int i=0;i<n;i++)
             {
                 for(int j=0;j<n;j++){
-                    if(dist[i][k]!=Integer.MAX_VALUE && dist[k][j]!=Integer.MAX_VALUE)
+                    if(dist[i][k]!=Integer.MAX_VALUE && dist[k][j]!=Integer.MAX_VALUE) //overflow check for empty paths
                     {
                         dist[i][j] = Math.min(dist[i][j],dist[i][k]+dist[k][j]);
                     }
