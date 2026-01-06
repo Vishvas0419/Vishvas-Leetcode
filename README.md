@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
