@@ -26,12 +26,11 @@ class Solution {
             col[c] = diag[d] = anti[a] = true;
             // recurse to next row for more solutions
             backtrack(row + 1, n, board, col, diag, anti, ans);
-            // undo
+            // undo(backtrack) after we find one solution
             board[row][c] = '.';
             col[c] = diag[d] = anti[a] = false;
         }
     }
-
     List<String> build(char[][] board) {
     List<String> res = new ArrayList<>();
     for (char[] row : board) {
