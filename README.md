@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0709-to-lower-case](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0709-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
