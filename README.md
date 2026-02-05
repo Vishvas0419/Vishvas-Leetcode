@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0792-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0948-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
