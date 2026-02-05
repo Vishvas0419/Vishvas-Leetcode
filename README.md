@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2486-most-frequent-even-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3379-transformed-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3379-transformed-array) |
 | [3778-transform-array-by-parity](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3379-transformed-array) |
 ## Matrix
 |  |
 | ------- |
