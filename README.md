@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3379-transformed-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3778-transform-array-by-parity](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2427-first-letter-to-appear-twice](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0948-sort-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-find-the-highest-altitude](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2571-find-the-pivot-integer) |
+| [3719-longest-balanced-subarray-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -781,4 +785,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
