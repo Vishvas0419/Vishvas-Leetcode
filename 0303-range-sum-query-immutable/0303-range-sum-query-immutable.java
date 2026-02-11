@@ -1,6 +1,5 @@
 class NumArray {
     public int[] prefix;
-
     public NumArray(int[] nums) {
         int n = nums.length;
         prefix = new int[n+1];
@@ -9,12 +8,10 @@ class NumArray {
             prefix[i+1] = prefix[i] + nums[i];
         } 
     }
-    
     public int sumRange(int left, int right) {
         return prefix[right+1] - prefix[left];
     }
 }
-
 /**
  * Your NumArray object will be instantiated and called as such:
  * NumArray obj = new NumArray(nums);
