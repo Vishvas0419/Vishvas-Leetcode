@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2129-capitalize-the-title](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2129-capitalize-the-title) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2391-strong-password-checker-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Hash Table
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1755-defuse-the-bomb](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Backtracking
