@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2391-strong-password-checker-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3713-longest-balanced-substring-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2427-first-letter-to-appear-twice](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3713-longest-balanced-substring-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2427-first-letter-to-appear-twice](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3713-longest-balanced-substring-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3778-transform-array-by-parity](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
@@ -796,4 +799,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
