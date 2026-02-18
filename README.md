@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
