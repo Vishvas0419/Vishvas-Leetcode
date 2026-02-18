@@ -4,11 +4,14 @@
             while(j<nums.length)
             {
                 sum += nums[j];
+                if(sum>=target) //if window becomes invalid make it valid while it is invalid(sum>=target)
+                {
                 while(sum>=target)
                 {
                     minLen = Math.min(minLen,j-i+1);
                     sum = sum-nums[i];
                     i++;
+                }
                 }
                 j++;
             }
