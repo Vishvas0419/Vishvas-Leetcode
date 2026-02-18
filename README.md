@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0792-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0941-valid-mountain-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0941-valid-mountain-array) |
 | [0948-sort-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0948-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
