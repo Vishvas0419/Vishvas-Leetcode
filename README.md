@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1013-fibonacci-number) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2571-find-the-pivot-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2571-find-the-pivot-integer) |
