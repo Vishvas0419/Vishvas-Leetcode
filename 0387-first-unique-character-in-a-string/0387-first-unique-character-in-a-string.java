@@ -1,6 +1,16 @@
 class Solution {
     public int firstUniqChar(String s) {
-        Map<Character,Integer> map = new HashMap<>();
+        // TreeSet<Integer> set = new TreeSet<>();
+        // for(int i=0;i<s.length();i++)
+        // {
+        //     char ch  = s.charAt(i);
+        //     set.add(ch);
+        //     if(!set.contains(ch))
+        //     {
+        //         return i;
+        //     }
+        // }
+        Map<Character,Integer> map = new LinkedHashMap<>();
         for(int i=0;i<s.length();i++)
         {
             char ch = s.charAt(i);
@@ -8,9 +18,10 @@ class Solution {
         }
         for(int i=0;i<s.length();i++)
         {
-            char ch = s.charAt(i);
-            if(map.get(ch)==1) return i;
+            if(map.get(s.charAt(i))==1) return i;
         }
         return -1;
+
+
     }
 }
