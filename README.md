@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2486-most-frequent-even-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3379-transformed-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3379-transformed-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1894-merge-strings-alternately](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## String
 |  |
 | ------- |
