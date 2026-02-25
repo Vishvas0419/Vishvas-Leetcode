@@ -38,8 +38,8 @@ class Solution {
                     {
                         map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
 // If the count of a required character goes above 0, the window is no longer valid 
-                    if(map.get(s.charAt(i))>0) count++;
-                }
+                        if(map.get(s.charAt(i))>0) count++;
+                    }
                 i++; 
                 }
             }
