@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0403-frog-jump](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
