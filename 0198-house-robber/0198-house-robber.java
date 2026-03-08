@@ -1,17 +1,23 @@
 class Solution {
-    private static int[] dp;
     public int rob(int[] nums) {
         int n = nums.length;
-        dp = new int[n+1];
+        int[]dp = new int[n];
         Arrays.fill(dp,-1);
-        return rec(nums,0,n);
+        return solve(nums,n-1,dp);
     }
-    static int rec(int[] nums,int i,int n)
+    public int solve(int[]nums,int index,int[]dp)
     {
-        if(i>=n) return 0;
-        if(dp[i]!=-1) return dp[i];
-        int pick =nums[i] + rec(nums,i+2,n);
-        int not_pick = rec(nums,i+1,n);
-        return dp[i] = Math.max(pick,not_pick);
+        if(index==0)
+        {
+            return nums[index];
+        }
+        if(index<0)
+        {
+            return 0;
+        }
+        if(dp[index]!=-1) return dp[index];
+        int pick = nums[index]+solve(nums,index-2,dp);
+        int notPick = 0 + solve(nums,index-1,dp);
+        return dp[index] = Math.max(pick,notPick);
     }
 }
