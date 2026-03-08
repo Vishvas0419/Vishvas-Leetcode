@@ -10,8 +10,8 @@ class Solution {
     {
         if(i>=n) return 0;
         if(dp[i]!=-1) return dp[i];
-        int t =nums[i] + rec(nums,i+2,n);
-        int N = rec(nums,i+1,n);
-        return dp[i] = Math.max(t,N);
+        int pick =nums[i] + rec(nums,i+2,n);
+        int not_pick = rec(nums,i+1,n);
+        return dp[i] = Math.max(pick,not_pick);
     }
 }
