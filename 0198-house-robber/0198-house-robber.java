@@ -1,5 +1,6 @@
 class Solution {
     public int rob(int[] nums) {
+        //memoization code
         int n = nums.length;
         int[]dp = new int[n];
         Arrays.fill(dp,-1);
