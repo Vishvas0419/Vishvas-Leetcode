@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0403-frog-jump](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
