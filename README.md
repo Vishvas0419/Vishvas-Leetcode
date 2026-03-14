@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-find-the-highest-altitude](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2058-concatenation-of-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
@@ -452,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -850,4 +856,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
