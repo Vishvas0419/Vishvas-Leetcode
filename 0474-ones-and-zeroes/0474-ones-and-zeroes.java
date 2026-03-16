@@ -1,30 +1,27 @@
 class Solution {
     public int findMaxForm(String[] strs, int m, int n) {
-        int[][][]dp = new int[strs.length][m+1][n+1];
-        for(int i=0;i<strs.length;i++)
+        //tabulation approach (bottom up approach)
+        int[][][]dp = new int[strs.length+1][m+1][n+1];
+        // if(index==strs.length) return 0; by default dp[strs.length][m][n]
+        for(int i=strs.length-1;i>=0;i--)
         {
+            int zeroCount = countZeroes(strs[i]);
+            int oneCount = countOnes(strs[i]);
             for(int j=0;j<=m;j++)
             {
-                Arrays.fill(dp[i][j],-1);
+                for(int k=0;k<=n;k++)
+                {
+                    int notPick = dp[i+1][j][k];
+                    int pick = 0;
+                    if(zeroCount<=j && oneCount<=k)
+                    {
+                        pick = 1 +dp[i+1][j-zeroCount][k-oneCount];
+                    }
+                    dp[i][j][k] = Math.max(pick,notPick);
+                }
             }
         }
-        return solve(0,m,n,strs,dp);
-    }
-    //recursive approach
-    private static int solve(int index,int m,int n,String[]strs,int[][][]dp)
-    {
-        if(index==strs.length) return 0;
-        if(dp[index][m][n]!=-1) return dp[index][m][n];
-        int zeroCount = countZeroes(strs[index]);
-        int oneCount = countOnes(strs[index]);
-        int notPick = solve(index+1,m,n,strs,dp);
-        int pick = 0;
-        if(zeroCount<=m && oneCount<=n)
-        {
-            pick = 1 + solve(index+1,m-zeroCount,n-oneCount,strs,dp);
-        }
-
-        return dp[index][m][n] = Math.max(pick,notPick);
+        return dp[0][m][n];
     }
     private static int countZeroes(String str)
     {
