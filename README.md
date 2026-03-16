@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0506-relative-ranks) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0403-frog-jump](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1013-fibonacci-number) |
@@ -752,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0051-n-queens](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0494-target-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
