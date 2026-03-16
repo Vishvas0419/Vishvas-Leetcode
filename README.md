@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0496-next-greater-element-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0709-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0403-frog-jump](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
