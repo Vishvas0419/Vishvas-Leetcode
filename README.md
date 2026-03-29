@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0709-to-lower-case) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
