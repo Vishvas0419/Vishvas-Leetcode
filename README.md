@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0709-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1013-fibonacci-number) |
 | [1092-shortest-common-supersequence](https://github.com/Vishvas0419/Vishvas-Leetcode/tree/master/1092-shortest-common-supersequence) |
