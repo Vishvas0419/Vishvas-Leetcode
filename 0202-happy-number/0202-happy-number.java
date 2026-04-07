@@ -7,15 +7,15 @@ class Solution {
             n = findNext(n);
         }
         return n==1;
-    }
-    public int findNext(int num)
+    }   
+    private static int findNext(int n)
     {
         int sum = 0;
-        while(num>0)
+        while(n>0)
         {
-            int digit = num%10;
-            sum = sum + (int)Math.pow(digit,2);
-            num = num/10;        
+            int digit = n%10;
+            sum += (int)Math.pow(digit,2);
+            n = n/10;
         }
         return sum;
     }
