@@ -1,19 +1,25 @@
 class Solution {
     public int maxArea(int[] height) {
-        int left = 0;
-        int right = height.length-1;
-        int maxArea = 0;
-
+        //area of rectangle  = length * breadth
+        //here width = height.length , length = height[i]
+        int maxArea = Integer.MIN_VALUE;
+        int area = 1;
+        int left=0;
+        int right=height.length-1;
         while(left<right)
         {
-            int area = Math.min(height[left],height[right]) * (right - left);
+            int length = Math.min(height[left],height[right]);
+            int width = right-left;
+            area = length * width;
             maxArea = Math.max(maxArea,area);
-            if(height[left]<height[right]){
+             // Move the smaller height pointer
+             if(height[left]<height[right])
+             {
                 left++;
-            }
-            else{
+             }
+             else{
                 right--;
-            }
+             }
         }
         return maxArea;
     }
