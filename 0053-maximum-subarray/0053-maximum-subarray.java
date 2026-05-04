@@ -5,9 +5,9 @@ class Solution {
         for(int i=0;i<nums.length;i++)
         {
             sum += nums[i];
-            if(sum>maxSum) maxSum = Math.max(maxSum,sum);
+            if(sum>maxSum) maxSum = sum;
             if(sum<0) sum = 0;
         }
-        return maxSum==Integer.MIN_VALUE ? -1 : maxSum;
+        return maxSum == Integer.MIN_VALUE ? -1 : maxSum;
     }
 }
